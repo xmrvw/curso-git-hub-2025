@@ -1,0 +1,11 @@
+ls -> lista arquivos
+cd -> move entre diretórios
+pwd -> mostra diretórios
+cat -> exibe conteúdo do arquivo
+rm -> remove arquivo ou diretório
+git init . -> cria um repo git na pasta atual
+git status -> mostra o status do trabalho (de cada arqui
+git add nome_arquivo -> adiciona arquivo para ser commit
+git commit -m "msg" -> faz commit do que estava para ser
+x
+
