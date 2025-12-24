@@ -7,5 +7,5 @@ git init . -> cria um repo git na pasta atual
 git status -> mostra o status do trabalho (de cada arqui
 git add nome_arquivo -> adiciona arquivo para ser commit
 git commit -m "msg" -> faz commit do que estava para ser
-x
+git log -> mostra todo o histórico de commit
 
