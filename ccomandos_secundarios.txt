@@ -1,1 +1,9 @@
 este arquivo contém comandos secundários de git
+
+- Primeiro comando
+- Segundo comando
+
+# Comandos mais genéricos
+ - comandos estranhos
+
+# mds não sei se to entendendo, ainda não sei pra que vai me servir... continuemos.
