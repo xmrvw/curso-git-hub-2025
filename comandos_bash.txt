@@ -1,4 +1,10 @@
 ls -> lista arquivos
+git init . -> cria um repo git na pasta atual
+git status -> mostra o status do trabalho (de cada arquivo)
+git add nome do arquivo -> adiciona arquivo para ser commitado
+git commit -m "msg" -> faz commit do que estava para ser commitado
+git log -> mostra todo o histórico de commit
+
 cd -> move entre diretórios
 pwd -> mostra diretórios
 cat -> exibe conteúdo do arquivo
@@ -12,7 +18,7 @@ rm - rf -> remove de forma recursiva e forçada todos diretórios
 4. git status
 5. git add <nome arquivo>
 6. git status
-7. git commit -m "mensagem"
+7. git commit -m "Mensagem "
 8. git status
 9. volta para o passo 3.
 
