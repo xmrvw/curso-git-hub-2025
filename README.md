@@ -16,7 +16,7 @@ O curso aborda os principais componentes do ecossistema Git, incluindo:
 * integração de alterações por meio de pull requests;
 * aplicação do GitFlow como estratégia de organização do desenvolvimento;
 * integração do Git ao Visual Studio Code como ambiente de trabalho.
-
+*gitkeep & gitignore
 
 
 Do ponto de vista metodológico, este repositório reflete a adoção de boas práticas para pesquisa orientada a dados, especialmente relevantes para Ciência Política e Ciências Sociais Aplicadas, onde código, dados e resultados analíticos precisam ser:
