@@ -40,7 +40,7 @@ Este repositório funciona, portanto, como um registro técnico de aprendizagem,
 
 
 
-\## Fluxo de trabalho Git local
+## Fluxo de trabalho Git local
 
 
 
@@ -55,7 +55,7 @@ Este repositório funciona, portanto, como um registro técnico de aprendizagem,
 
 
 
-\## Fluxo de trabalho GitHub <> Local (projeto próprio ou da sua empresa)
+## Fluxo de trabalho GitHub <> Local (projeto próprio ou da sua empresa)
 
 
 
@@ -74,7 +74,7 @@ Este repositório funciona, portanto, como um registro técnico de aprendizagem,
 
 
 
-\## Fluxo de trabalho GitHub <> Local (projetos open-source)
+## Fluxo de trabalho GitHub <> Local (projetos open-source)
 
 
 
