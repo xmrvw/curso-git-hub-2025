@@ -1,0 +1,3 @@
+*.pptx
+#ao inves de colocar o nome de cada um dos arquivos eu posso colocar '*' e o tipo de arquivo
+#que ele irá pegar todos os arquivos desse tipo e ignorar.
